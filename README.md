@@ -1,11 +1,18 @@
-﻿Trabalho de grupo da Matéria "Integração I - Engenharia de Software 2018/4" ministrada pelo professor Elias Batista Ferreira - UFG
+# Trabalho de grupo da Matéria "Integração I - Engenharia de Software 2018/4" ministrada pelo professor Elias Batista Ferreira - UFG
 
-Integrantes: 
+###Integrantes: 
 
 - Jhordan Gabriel (201515570)
 - Pedro Alves (201705635)
 
-Planejamento:
+###Links:
+
+Drive: 
+https://drive.google.com/drive/folders/1DWVLHUd4Q5QDd_HiwIhv-KYYMXsUzr-x?usp=sharing
+
+Trello: https://trello.com/invite/b/Gk57Ubmp/fe7c24b991b4b2cd8d7746da0fa7e792/es-integra%C3%A7%C3%A3o-1
+
+###Planejamento:
 
 * Marco 1 (17 Jan 2019, 23:55)
 Termo de abertura
