@@ -1,0 +1,60 @@
+2019/01/28 08:41:34 [error] 1261#1261: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 414. in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 366" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local"
+2019/02/02 12:08:27 [error] 1271#1271: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 414. in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 366" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local"
+2019/02/02 12:08:33 [error] 1271#1271: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 414. in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 366" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET /index.php?r=debug%2Fdefault%2Ftoolbar&tag=5c55a45b48d4c HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local", referrer: "http://integracao.dev.local/"
+2019/02/03 23:41:09 [error] 1256#1256: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 414. in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\Er" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local"
+2019/02/03 23:41:09 [error] 1256#1256: *1 FastCGI sent in stderr: "rorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 366" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local"
+2019/02/03 23:41:15 [error] 1256#1256: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 414. in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/Response.php on line 366" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET /debug/default/toolbar?tag=5c57983512488 HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local", referrer: "http://integracao.dev.local/"
+2019/02/12 00:35:43 [error] 1234#1234: *2128 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use yii\helpers\Html as Html because the name is already in use in /home/jhordan/Documents/projects/integracao/views/ordem-servico/close.php on line 4" while reading response header from upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET /ordem-servico/concluir?id=2 HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local", referrer: "http://integracao.dev.local/ordem-servico/view?id=2"
+2019/02/12 00:58:21 [error] 1234#1234: *2245 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\ForbiddenHttpException: Login Necessário. in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/User.php:454
+Stack trace:
+#0 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/filters/AccessControl.php(156): yii\web\User->loginRequired()
+#1 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/filters/AccessControl.php(140): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#2 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/ActionFilter.php(77): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#3 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#4 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#5 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('befo" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET /site/login HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local", referrer: "http://integracao.dev.local/site"
+2019/02/12 00:58:26 [error] 1234#1234: *2245 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\ForbiddenHttpException: Login Necessário. in /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/web/User.php:454
+Stack trace:
+#0 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/filters/AccessControl.php(156): yii\web\User->loginRequired()
+#1 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/filters/AccessControl.php(140): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#2 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/ActionFilter.php(77): yii\filters\AccessControl->beforeAction(Object(yii\web\ErrorAction))
+#3 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#4 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#5 /home/jhordan/Documents/projects/integracao/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('befo" while reading upstream, client: 127.0.0.1, server: integracao.dev.local, request: "GET /site/login HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "integracao.dev.local"
